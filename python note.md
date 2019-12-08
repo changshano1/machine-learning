@@ -1,6 +1,5 @@
-## python note
-install package
-"pip3 install xxx"
+## Python note
+install package `pip3 install xxx`
 
 
 
